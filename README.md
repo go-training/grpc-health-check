@@ -7,3 +7,13 @@ How to write grpc health check interface.
 ```
 $ go run main.go
 ```
+
+## Run Health Check
+
+```
+$ go run client/main.go
+```
+
+## ScreenShots
+
+![run grpc server](./screenshot/grpc.png)
