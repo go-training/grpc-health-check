@@ -1,6 +1,6 @@
 # grpc-health-check
 
-How to write grpc health check interface.
+How to write grpc health check interface. See [GRPC Health Checking Protocol](https://github.com/grpc/grpc/blob/master/doc/health-checking.md)
 
 ## Start grpc server
 
